@@ -20,7 +20,7 @@ body{
   margin: 1em;
   color: white;
   margin: 0 20px;
-  min-width: 330px;
+  min-width: 260px;
 
 }
 .search{
@@ -52,7 +52,7 @@ input.search-bar{
   font-size: 105%;
   cursor: pointer;
   transition: 0.2s ease-in-out;
-  width: 80%;
+  width: 75%;
   
 }
 button:hover{
